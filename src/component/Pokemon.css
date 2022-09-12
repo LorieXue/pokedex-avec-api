@@ -1,0 +1,15 @@
+.pokemon-image {
+    width: 96px;
+    height: 96px;
+    border-style: none;
+    object-fit: cover;
+    background-color: bisque;
+}
+
+.pokemon-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
